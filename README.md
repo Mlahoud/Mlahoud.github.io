@@ -1,30 +1,14 @@
-Agency Jekyll theme
+Mlahoud website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Testing...
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Template from [here](https://github.com/y7kim/agency-jekyll-theme)
 
 
 # Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View this jekyll theme in action [here](https://Mlahoud.github.io/)
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
